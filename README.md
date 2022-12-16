@@ -1,2 +1,2 @@
 # stop-watch-2
-## Second variant of Stopwatch
+#### Second variant of Stopwatch
